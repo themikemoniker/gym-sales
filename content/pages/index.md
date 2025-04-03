@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Mantenimiento y Venta de Equipos de Gimnasio con Asesoría Especializada
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
