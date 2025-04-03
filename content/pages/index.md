@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: ''
+      - label: Solicita diagnóstico gratuito →
         altText: ''
         url: /
         showIcon: true
