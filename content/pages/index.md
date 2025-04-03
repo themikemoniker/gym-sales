@@ -36,7 +36,7 @@ sections:
         type: Link
     media:
       url: /images/treadmilrepair.png
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     elementId: ''
