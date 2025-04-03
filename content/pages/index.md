@@ -16,7 +16,7 @@ sections:
       incluida. Nos encargamos de que todo funcione a la perfección, para que tú
       te enfoques en entrenar.
     actions:
-      - label: Get started
+      - label: Conoce nuestros servicios
         altText: ''
         url: /
         showIcon: false
