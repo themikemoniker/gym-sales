@@ -7,7 +7,9 @@ sections:
       text: Mantenimiento y Venta de Equipos de Gimnasio con Asesoría Especializada
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Soluciones integrales para corporativos, constructoras, condominios y
+      gimnasios en México.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
