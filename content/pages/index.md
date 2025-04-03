@@ -11,9 +11,10 @@ sections:
       Soluciones integrales para corporativos, constructoras, condominios y
       gimnasios en México.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      En Gym Sales, cada proyecto es único. Te ofrecemos diagnóstico gratuito,
+      asesoría especializada y acceso a equipos de alta calidad con instalación
+      incluida. Nos encargamos de que todo funcione a la perfección, para que tú
+      te enfoques en entrenar.
     actions:
       - label: Get started
         altText: ''
