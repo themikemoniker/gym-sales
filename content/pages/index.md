@@ -9,10 +9,9 @@ sections:
       type: TitleBlock
     subtitle: We offer everything for established and new gyms
     text: >
-      En Gym Sales, cada proyecto es único. Te ofrecemos diagnóstico gratuito,
-      asesoría especializada y acceso a equipos de alta calidad con instalación
-      incluida. Nos encargamos de que todo funcione a la perfección, para que tú
-      te enfoques en entrenar.
+      We offer new equiptment maintainence and packages etc. Keep your gym safe
+      and clean. We also offer packages and consulting to get plan your brand
+      new gym or location
     actions:
       - label: Conoce nuestros servicios
         altText: ''
