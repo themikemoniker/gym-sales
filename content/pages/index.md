@@ -7,9 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Soluciones integrales para corporativos, constructoras, condominios y
-      gimnasios en México.
+    subtitle: We offer everything for established and new gyms
     text: >
       En Gym Sales, cada proyecto es único. Te ofrecemos diagnóstico gratuito,
       asesoría especializada y acceso a equipos de alta calidad con instalación
