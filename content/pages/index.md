@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Mantenimiento y Venta de Equipos de Gimnasio con Asesoría Especializada
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: >-
