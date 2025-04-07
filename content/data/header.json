@@ -37,6 +37,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/contacto",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
