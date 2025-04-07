@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Conoce nuestros servicios
         altText: ''
-        url: /
+        url: /equipamiento
         showIcon: false
         icon: arrowRight
         iconPosition: right
