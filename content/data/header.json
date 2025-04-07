@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Equipamiento",
-            "url": "/marcas",
+            "url": "/equipamiento",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
