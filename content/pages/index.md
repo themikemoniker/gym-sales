@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: We offer everything for established and new gyms
     text: >
-      We offer new equiptment maintainence and packages etc. Keep your gym safe
-      and clean. We also offer packages and consulting to get plan your brand
-      new gym or location
+      We design, give information about what you need how much it costs, we do
+      installation and we do maintainece. We are there with you from the
+      beginning to end or whatever step you are at
     actions:
       - label: Conoce nuestros servicios
         altText: ''
