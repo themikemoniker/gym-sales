@@ -32,7 +32,7 @@
         {
             "label": "Mantenimiento",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/mantenimiento",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
