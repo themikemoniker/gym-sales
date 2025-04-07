@@ -54,7 +54,7 @@
                     "type": "Link",
                     "label": "Peso Libre",
                     "altText": "",
-                    "url": "/pesos",
+                    "url": "/peso-libre",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
