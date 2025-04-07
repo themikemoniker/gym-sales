@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Solicita diagnóstico gratuito →
         altText: ''
-        url: /
+        url: /mantenimiento
         showIcon: true
         icon: arrowRight
         iconPosition: right
