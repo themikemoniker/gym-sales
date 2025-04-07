@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Marcas",
-            "url": "/pricing",
+            "url": "/marcas",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
