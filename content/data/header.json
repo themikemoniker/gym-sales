@@ -15,7 +15,7 @@
         {
             "type": "SubNav",
             "label": "Equipamiento",
-            "altText": "Dropdown",
+            "altText": "Equipamiento",
             "links": [
                 {
                     "type": "Link",
