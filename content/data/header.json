@@ -52,7 +52,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Pesos",
+                    "label": "Peso Libre",
                     "altText": "",
                     "url": "/pesos",
                     "showIcon": false,
