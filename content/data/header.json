@@ -23,7 +23,7 @@
         {
             "label": "Mantenimiento",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/mantenimiento",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
