@@ -47,7 +47,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Marcas
+  - subtitle: Clientes Satisfechos
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
