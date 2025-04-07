@@ -52,7 +52,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "Pesos",
                     "altText": "",
                     "url": "/pesos",
                     "showIcon": false,
