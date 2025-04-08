@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Conoce nuestros productos
         altText: ''
-        url: /equipamiento
+        url: /equipamiento/fureza
         showIcon: false
         icon: arrowRight
         iconPosition: right
