@@ -27,7 +27,7 @@
             },
             {
                 "label": "Mantenimiento",
-                "url": "/",
+                "url": "/mantenimiento",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
