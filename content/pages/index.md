@@ -99,7 +99,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Featured Blog Posts
       color: text-dark
     subtitle: Featured Blog Posts
   - title: Divider
