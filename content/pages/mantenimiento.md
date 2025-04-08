@@ -97,7 +97,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: mantenimiento
+slug: /mantenimiento
 seo:
   type: Seo
   metaTitle: Careers - Demo site
