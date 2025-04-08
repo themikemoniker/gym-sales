@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: eqipamiento/cardio
+slug: equipamiento/cardio
 seo:
   type: Seo
   metaTitle: Careers - Demo site
