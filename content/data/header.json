@@ -54,7 +54,7 @@
                     "type": "Link",
                     "label": "Peso Libre",
                     "altText": "",
-                    "url": "/peso-libre",
+                    "url": "equipamiento/peso-libre",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
