@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Fureza
+title: Fuerza
 sections:
   - type: GenericSection
     title:
