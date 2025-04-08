@@ -4,30 +4,27 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Mantenimiento y Venta de Equipos de Gimnasio con Asesoría Especializada
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Soluciones integrales para corporativos, constructoras, condominios y
-      gimnasios en México.
+    subtitle: We offer everything for established and new gyms
     text: >
-      En Gym Sales, cada proyecto es único. Te ofrecemos diagnóstico gratuito,
-      asesoría especializada y acceso a equipos de alta calidad con instalación
-      incluida. Nos encargamos de que todo funcione a la perfección, para que tú
-      te enfoques en entrenar.
+      We design, give information about what you need how much it costs, we do
+      installation and we do maintainece. We are there with you from the
+      beginning to end or whatever step you are at
     actions:
       - label: Conoce nuestros servicios
         altText: ''
-        url: /
+        url: /equipamiento
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: Solicita diagnóstico gratuito →
+      - label: Solicita Tú diagnóstico →
         altText: ''
-        url: /
+        url: /mantenimiento
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -50,142 +47,28 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedItemsSection
-    title:
-      text: Why Choose Our Equipment
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: The advantages of partnering with us
-    items:
-      - type: FeaturedItem
-        title: 10+ Years
-        subtitle: Warranty Coverage
-        text: >-
-          All our commercial-grade equipment comes with industry-leading warranty coverage, 
-          ensuring your investment is protected for years to come.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Warranty shield icon
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 24/7
-        subtitle: Technical Support
-        text: >-
-          Our team of certified technicians is available around the clock to ensure 
-          your gym equipment is always operating at peak performance.
-        image:
-          url: /images/icon2.svg
-          altText: Support icon
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 98%
-        subtitle: Customer Satisfaction
-        text: >-
-          Our commitment to quality equipment and responsive service has earned us one of the 
-          highest customer satisfaction ratings in the fitness industry.
-        image:
-          url: /images/icon3.svg
-          altText: Satisfaction icon
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Request a Quote
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: Trusted by Fitness Centers
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - subtitle: Trusted by leading fitness brands worldwide
+  - subtitle: Clientes Satisfechos
     images:
       - url: /images/empathy-logo.svg
-        altText: FitnessPro logo
+        altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
-        altText: GymMaster logo
+        altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
-        altText: PowerFit logo
+        altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
-        altText: StrengthCore logo
+        altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
-        altText: FitElite logo
+        altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
-        altText: FlexGym logo
+        altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
-        altText: TotalFitness logo
+        altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -225,20 +108,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Equip Your Facility with Premium Fitness Equipment
+      text: Grow your business 10x faster
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Complete Fitness Solutions
+    subtitle: This is a subtitle
     text: |-
-      From boutique studios to large commercial gyms, we provide tailored equipment 
-      solutions to meet your specific needs and budget. Our expert team helps you 
-      select the right mix of cardio, strength, and functional training equipment 
-      to maximize your space and member experience.
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Equipment Installation Video
+      title: Title of the video
       url: /images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
@@ -249,19 +132,135 @@ sections:
             - pb-2
             - pl-2
             - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
       type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: Key Benefits
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+  - type: GenericSection
+    title:
+      text: Generic section with a video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: Section with a video subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    media:
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - title:
+      text: Social Media Management
+      color: text-dark
+      type: TitleBlock
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
     actions:
-      - label: Schedule a Consultation
-        altText: ''
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: See Tutorials
         url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
-        type: Button
+        type: Link
+    media:
+      url: /images/hero2.svg
+      altText: Fun feature preview
+      type: ImageBlock
     badge:
-      label: Expert Design & Installation
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
+  - title:
+      text: Business Consulting
+      color: text-dark
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/hero3.svg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: This is a badge
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -557,115 +556,75 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-16
+          - pl-8
           - pb-16
-          - pr-16
-        alignItems: center
-      badge:
-        textAlign: center
-    type: GenericSection
-  - title:
-      text: Maintenance Services That Keep Your Equipment Running
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Comprehensive Service Plans
-    items:
-      - title: Preventative Maintenance
-        subtitle: Regular Service
-        image:
-          url: /images/feature-1.svg
-          altText: Maintenance icon
-          elementId: ''
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-        type: FeaturedItem
-        text: >-
-          Regular scheduled maintenance to prevent issues before they occur. 
-          Includes lubrication, calibration, and thorough inspection of all equipment.
-      - title: Repair Services
-        subtitle: Fast Response Times
-        image:
-          url: /images/feature-2.svg
-          altText: Repair icon
-          elementId: ''
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-        type: FeaturedItem
-        text: >-
-          Quick and efficient repair of malfunctioning equipment. We stock parts for
-          all major brands and offer 24/7 emergency service.
-      - title: Equipment Refurbishment
-        subtitle: Extend Equipment Life
-        image:
-          url: /images/feature-3.svg
-          altText: Refurbishment icon
-          elementId: ''
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-        type: FeaturedItem
-        text: >-
-          Complete overhaul and refurbishment of older equipment to extend its
-          lifespan and improve functionality.
-    actions:
-      - label: View All Services
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    colors: bg-light-fg-dark
-    variant: three-col-grid
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pr-8
         justifyContent: center
-        alignItems: flex-start
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - title:
+      text: Generic Section With A Form
+      color: text-dark
+      type: TitleBlock
+    subtitle: Section with a form subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    media:
+      fields:
+        - name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+          type: TextareaFormControl
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: FormBlock
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: null
+    badge:
+      label: Contact Us
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    type: GenericSection
 seo:
-  metaTitle: GymEquip Pro - Premium Gym Equipment Sales & Maintenance
-  metaDescription: Leading provider of commercial-grade fitness equipment with professional installation and maintenance services.
+  metaTitle: Home - Demo site
+  metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
