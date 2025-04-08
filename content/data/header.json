@@ -6,6 +6,12 @@
             "self": {
                 "margin": [
                     "mr-3"
+                ],
+                "padding": [
+                    "pt-0",
+                    "pl-0",
+                    "pb-0",
+                    "pr-0"
                 ]
             }
         },
@@ -21,7 +27,7 @@
                     "type": "Link",
                     "label": "Cardio",
                     "altText": "",
-                    "url": "/cardio",
+                    "url": "/equipamiento/cardio",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -32,7 +38,7 @@
                     "type": "Link",
                     "label": "Fuerza",
                     "altText": "",
-                    "url": "/fuerza",
+                    "url": "/equipamiento/fuerza",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -43,7 +49,7 @@
                     "type": "Link",
                     "label": "Pilates",
                     "altText": "",
-                    "url": "/pilates",
+                    "url": "/equipamiento/pilates",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -54,7 +60,7 @@
                     "type": "Link",
                     "label": "Peso Libre",
                     "altText": "",
-                    "url": "/peso-libre",
+                    "url": "/equipamiento/peso-libre",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
