@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: We offer everything for established and new gyms
+    subtitle: ''
     text: >
       Diseñamos, te orientamos sobre lo que necesitas y cuánto cuesta, hacemos
       la instalación y el mantenimiento. Te acompañamos desde el inicio hasta
