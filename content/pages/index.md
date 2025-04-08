@@ -13,7 +13,7 @@ sections:
       installation and we do maintainece. We are there with you from the
       beginning to end or whatever step you are at
     actions:
-      - label: Conoce nuestros servicios
+      - label: Conoce nuestros productos
         altText: ''
         url: /equipamiento
         showIcon: false
