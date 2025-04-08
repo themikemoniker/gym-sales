@@ -43,7 +43,7 @@
                     "type": "Link",
                     "label": "Pilates",
                     "altText": "",
-                    "url": "/pilates",
+                    "url": "equipamiento/pilates",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
