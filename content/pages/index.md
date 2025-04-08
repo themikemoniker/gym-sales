@@ -101,7 +101,7 @@ sections:
       type: TitleBlock
       text: Featured Blog Posts
       color: text-dark
-    subtitle: Featured Blog Posts
+    subtitle: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
