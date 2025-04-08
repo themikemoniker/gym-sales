@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: equipamiento/peso-libre
+slug: /equipamiento/peso-libre
 seo:
   type: Seo
   metaTitle: Careers - Demo site
