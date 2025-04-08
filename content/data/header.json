@@ -27,7 +27,7 @@
                     "type": "Link",
                     "label": "Cardio",
                     "altText": "",
-                    "url": "equipamiento/cardio",
+                    "url": "/equipamiento/cardio",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
