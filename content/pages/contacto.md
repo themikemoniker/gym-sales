@@ -63,7 +63,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: /contacto
+slug: contacto
 seo:
   type: Seo
   metaTitle: Contact page
