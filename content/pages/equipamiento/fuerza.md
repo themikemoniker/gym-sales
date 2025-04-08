@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: equipamiento/fuerza
+slug: /equipamiento/fuerza
 seo:
   type: Seo
   metaTitle: Careers - Demo site
