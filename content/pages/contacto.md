@@ -60,7 +60,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contactarnos
+      label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
 slug: /contacto
