@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Cardio
+title: Fureza
 sections:
   - type: GenericSection
     title:
