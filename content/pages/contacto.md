@@ -66,7 +66,7 @@ sections:
 slug: /contacto
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: Contact page
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
