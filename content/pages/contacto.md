@@ -67,6 +67,6 @@ slug: /contacto
 seo:
   type: Seo
   metaTitle: Contact page
-  metaDescription: This is the careers page built with Netlify.
+  metaDescription: Contact information and form for contacting the company
   metaTags: []
 ---
