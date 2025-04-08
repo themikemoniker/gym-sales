@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Benefits of maintaining your gym
       color: text-primary
       styles:
         self:
