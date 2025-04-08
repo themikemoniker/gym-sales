@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: contacto
+slug: /contacto
 seo:
   type: Seo
   metaTitle: Careers - Demo site
