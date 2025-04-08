@@ -62,7 +62,7 @@
     "socialLinks": [
         {
             "altText": "info@fitcaresolutions.com",
-            "url": "/",
+            "url": "mailto:info@fitcaresolutions.com",
             "icon": "mail",
             "type": "Social"
         }
