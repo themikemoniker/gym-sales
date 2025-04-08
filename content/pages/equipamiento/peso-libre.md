@@ -5,88 +5,74 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Items on sale
       color: text-dark
       styles:
         self:
-          textAlign: center
-    subtitle: Subtitle goes here
+          textAlign: left
     items:
       - type: FeaturedItem
-        title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Faux Fur Throw
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             textAlign: left
-            borderRadius: x-large
-            flexDirection: row
+            borderRadius: none
+            flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Cotton Knit Throws
+        subtitle: $ 44.99 – $ 90
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
+        colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Chunky Cotton Knit Throw
+        subtitle: $117
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    variant: toggle-list
+        colors: bg-light-fg-dark
+    actions: []
+    elementId: ''
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pb-40
           - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
       subtitle:
         textAlign: center
 slug: /equipamiento/peso-libre
