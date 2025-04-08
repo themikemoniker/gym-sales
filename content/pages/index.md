@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Solicita Tú diagnóstico
+      - label: Solicita tú diagnóstico
         altText: ''
         url: /mantenimiento
         showIcon: true
