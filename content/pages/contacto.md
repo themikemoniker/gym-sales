@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Generic Section With A Form
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       Feel free to contact us with any inquiries. This form will alert us via
       email and you can also reach out over whatsapp
