@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: We offer everything for established and new gyms
     text: >
-      We design, give information about what you need how much it costs, we do
-      installation and we do maintainece. We are there with you from the
-      beginning to end or whatever step you are at
+      Diseñamos, te orientamos sobre lo que necesitas y cuánto cuesta, hacemos
+      la instalación y el mantenimiento. Te acompañamos desde el inicio hasta
+      donde lo necesites.
     actions:
       - label: Conoce nuestros productos
         altText: ''
