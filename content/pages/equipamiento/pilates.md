@@ -2,7 +2,7 @@
 type: PageLayout
 title: Pilates
 sections: []
-slug: equipamiento/pilates
+slug: /equipamiento/pilates
 seo:
   type: Seo
   metaTitle: Careers - Demo site
