@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Todo para tu gimnasio
       color: text-dark
       type: TitleBlock
     subtitle: ''
