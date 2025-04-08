@@ -19,7 +19,7 @@
             },
             {
                 "label": "Contacto",
-                "url": "/pricing",
+                "url": "/contacto",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
