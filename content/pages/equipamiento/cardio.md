@@ -75,7 +75,7 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-slug: cardio
+slug: /equipamiento/cardio
 seo:
   type: Seo
   metaTitle: Careers - Demo site
