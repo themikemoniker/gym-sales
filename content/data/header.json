@@ -73,7 +73,7 @@
         {
             "label": "Mantenimiento",
             "altText": "",
-            "url": "/mantenimiento",
+            "url": "mantenimiento",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
