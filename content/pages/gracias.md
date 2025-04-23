@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: 'Thanks, your response has been recorded.'
       color: text-dark
       styles:
         self:
