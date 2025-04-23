@@ -95,6 +95,11 @@ Elegir buen equipo no solo se trata de marcas o precios: la seguridad es clave, 
 Un aparato mal hecho o mal instalado puede provocar lesiones serias y hasta problemas legales si es en un negocio.
 🧠 Dato real: Muchos de los accidentes en gimnasios se deben a errores en la compra, instalación o mantenimiento de los equipos.
 
+<video width="640" height="360" controls>
+  <source src="/content/unsafe-bench.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ✅ Cómo saber si un equipo es seguro
 
 No todo lo barato es malo. Tampoco todo lo caro es lo mejor.
