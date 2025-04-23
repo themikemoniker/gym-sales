@@ -96,7 +96,7 @@ Un aparato mal hecho o mal instalado puede provocar lesiones serias y hasta prob
 🧠 Dato real: Muchos de los accidentes en gimnasios se deben a errores en la compra, instalación o mantenimiento de los equipos.
 
 <video width="640" height="360" controls>
-  <source src="/content/unsafe-bench.mp4" type="video/mp4" />
+  <source src="/videos/unsafe-bench.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
