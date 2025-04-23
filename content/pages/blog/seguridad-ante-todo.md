@@ -7,7 +7,7 @@ excerpt: >-
   para evitar accidentes. Te ayudamos a escoger con seguridad, diseño y asesoría
   especializada desde cero.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/blogiamge.jpeg
   altText: Case study 1
   styles:
     self:
