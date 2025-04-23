@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Gracias
 sections:
   - type: FeaturedItemsSection
     title:
