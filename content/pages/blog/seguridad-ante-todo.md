@@ -7,68 +7,13 @@ excerpt: >-
   para evitar accidentes. Te ayudamos a escoger con seguridad, diseño y asesoría
   especializada desde cero.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/blogiamge.jpeg
   altText: Case study 1
   styles:
     self:
       borderRadius: large
   type: ImageBlock
-bottomSections:
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mb-20
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
+bottomSections: []
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
@@ -94,11 +39,6 @@ Elegir buen equipo no solo se trata de marcas o precios: la seguridad es clave, 
 
 Un aparato mal hecho o mal instalado puede provocar lesiones serias y hasta problemas legales si es en un negocio.
 🧠 Dato real: Muchos de los accidentes en gimnasios se deben a errores en la compra, instalación o mantenimiento de los equipos.
-
-<video width="640" height="360" controls>
-  <source src="/videos/unsafe-bench.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
 
 ✅ Cómo saber si un equipo es seguro
 
@@ -154,6 +94,7 @@ Nos especializamos en ayudarte desde cero:
 
 📣 Solicita asesoría gratuita
 
-Enlace sugerido:[ https://fitcaresolutions.com/contacto/](https://fitcaresolutions.com/contacto/)
+Info\@fitcaresolutions.com
 
-Estilo sugerido: fondo verde oscuro, texto blanco, bordes redondeados
++52 56 6416 7873
+
