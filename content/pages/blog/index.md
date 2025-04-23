@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Articulo
+      text: Articulos Dest
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
