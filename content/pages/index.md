@@ -97,7 +97,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Featured Blog Posts
+      text: Artículos Destacados Del Blog
       color: text-dark
     subtitle: ''
     showExcerpt: true
