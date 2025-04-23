@@ -8,7 +8,7 @@ topSections:
       text: Articulos Destaca
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/seguridad-ante-todo.md
     showThumbnail: true
