@@ -94,5 +94,7 @@ Nos especializamos en ayudarte desde cero:
 
 📣 Solicita asesoría gratuita
 
-<https://fitcaresolutions.com/contacto/>
+Info\@fitcaresolutions.com
+
++52 56 6416 7873
 
