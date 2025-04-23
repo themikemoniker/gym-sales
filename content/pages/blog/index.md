@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Articulos Destaca
+      text: Articulos Destacados Del Blog
       color: text-dark
       type: TitleBlock
     subtitle: ''
