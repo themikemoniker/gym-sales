@@ -36,7 +36,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: TKO AirRaid Bike
         subtitle: ''
         image:
           type: ImageBlock
