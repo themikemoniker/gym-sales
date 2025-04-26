@@ -16,7 +16,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/872SM-BKMatteBlackSmithMachine_large.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
