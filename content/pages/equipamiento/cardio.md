@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/8AR_Air_Rower_1080_large.webp
