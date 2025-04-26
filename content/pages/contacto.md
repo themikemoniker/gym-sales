@@ -8,16 +8,15 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       No dudes en contactarnos si tienes alguna consulta. Puedes comunicarte con
       nosotros por WhatsApp o correo electrónico.
 
 
-      WhatsApp: +52 555-5555
+      WhatsApp: +52 56 6416 7873
 
 
       Correo electrónico: [info@fitcaresolutions.com]()
-
     actions: []
     badge:
       type: Badge
