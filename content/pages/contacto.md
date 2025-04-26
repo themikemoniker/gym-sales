@@ -20,7 +20,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: CONTACTANOS
+      label: CONTACTO
       color: text-primary
     colors: bg-light-fg-dark
 slug: /contacto
