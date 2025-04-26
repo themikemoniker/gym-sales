@@ -5,12 +5,86 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Fuerza items on sale
+      text: Fuerza
       color: text-dark
       styles:
         self:
           textAlign: left
     items:
+      - type: FeaturedItem
+        title: Faux Fur Throw
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/872SM-BKMatteBlackSmithMachine_large.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Cotton Knit Throws
+        subtitle: $ 44.99 – $ 90
+        image:
+          type: ImageBlock
+          url: /images/714SH_large.webp
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Chunky Cotton Knit Throw
+        subtitle: $117
+        image:
+          type: ImageBlock
+          url: /images/7011-G2LegExtension_large.webp
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Faux Fur Throw
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/7012-G2SeatedLegCurl_large.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
       - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
@@ -35,32 +109,6 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-      - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-      - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
     actions: []
     elementId: ''
     variant: three-col-grid
