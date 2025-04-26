@@ -62,7 +62,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
