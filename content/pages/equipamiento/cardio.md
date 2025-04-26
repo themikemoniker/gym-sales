@@ -62,7 +62,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: ''
+        title: TKO AirRaid Runner
         subtitle: ''
         image:
           type: ImageBlock
