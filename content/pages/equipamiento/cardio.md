@@ -16,7 +16,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/8AR_Air_Rower_1080_large.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
