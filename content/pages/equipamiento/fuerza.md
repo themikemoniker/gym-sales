@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Fuerza items on sale
+      text: Fuerza
       color: text-dark
       styles:
         self:
