@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Cardio items on sale
+      text: Cardio
       color: text-dark
       styles:
         self:
@@ -13,11 +13,11 @@ sections:
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
+          url: /images/8AR_Air_Rower_1080_large.webp
+          altText: ''
           elementId: ''
           styles:
             self:
@@ -36,12 +36,12 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        title: TKO AirRaid Bike
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
+          url: /images/8AB2_1da41f4b-b3d1-4ffc-a5e6-ec02a47cdae5_large.webp
+          altText: ''
           elementId: ''
           styles:
             self:
@@ -49,18 +49,42 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
+        title: TKO AirRaid Ski Trainer
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
+          url: /images/8ASKI_WEBEDIT_large.webp
+          altText: ''
           elementId: ''
           styles:
             self:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: TKO AirRaid Runner
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/8CTMAirRaidCurvedTreadmill_large.webp
+          altText: ''
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
