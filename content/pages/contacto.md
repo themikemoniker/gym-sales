@@ -13,9 +13,10 @@ sections:
       email and you can also reach out over whatsapp
 
 
-
-
       Whatsapp: +52 555-5555
+
+
+      Email: info\@fitcaresolutions.com
     actions: []
     media:
       type: FormBlock
