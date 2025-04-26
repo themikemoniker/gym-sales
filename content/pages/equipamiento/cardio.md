@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Cardio items on sale
+      text: Cardio
       color: text-dark
       styles:
         self:
