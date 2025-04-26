@@ -50,7 +50,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/8ASKI_WEBEDIT_large.webp
