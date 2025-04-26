@@ -9,58 +9,18 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Feel free to contact us with any inquiries. This form will alert us via
-      email and you can also reach out over whatsapp
+      No dudes en contactarnos si tienes alguna consulta. Puedes comunicarte con
+      nosotros por WhatsApp o correo electrónico.
 
 
+      WhatsApp: +52 56 6416 7873
 
 
-      Whatsapp: +52 555-5555
+      Correo electrónico: [info@fitcaresolutions.com]()
     actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Tu nombre
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submito
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: CONTACTO
       color: text-primary
     colors: bg-light-fg-dark
 slug: /contacto
