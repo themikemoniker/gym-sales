@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Peso libre items on sale
+      text: Peso libre
       color: text-dark
       styles:
         self:
