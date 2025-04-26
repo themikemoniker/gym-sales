@@ -8,15 +8,16 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >
-      Feel free to contact us with any inquiries. This form will alert us via
-      email and you can also reach out over whatsapp
+    text: >+
+      No dudes en contactarnos si tienes alguna consulta. Puedes comunicarte con
+      nosotros por WhatsApp o correo electrónico.
 
 
-      Whatsapp: +52 555-5555
+      WhatsApp: +52 555-5555
 
 
-      Email: info\@fitcaresolutions.com
+      Correo electrónico: [info@fitcaresolutions.com]()
+
     actions: []
     badge:
       type: Badge
