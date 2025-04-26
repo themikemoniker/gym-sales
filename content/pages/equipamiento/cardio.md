@@ -41,7 +41,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/8AB2_1da41f4b-b3d1-4ffc-a5e6-ec02a47cdae5_large.webp
-          altText: Cotton Knit Throws
+          altText: ''
           elementId: ''
           styles:
             self:
