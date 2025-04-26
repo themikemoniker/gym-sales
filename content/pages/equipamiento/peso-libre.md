@@ -16,7 +16,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/820TS_1_w_large.webp
+          url: /images/820TL-48_500_large.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
