@@ -54,7 +54,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/8ASKI_WEBEDIT_large.webp
-          altText: Chunky Cotton Knit Throw
+          altText: ''
           elementId: ''
           styles:
             self:
@@ -67,7 +67,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/8CTMAirRaidCurvedTreadmill_large.webp
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
