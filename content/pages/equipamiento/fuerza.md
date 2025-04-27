@@ -49,7 +49,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Leg Extension
         subtitle: ''
         image:
           type: ImageBlock
