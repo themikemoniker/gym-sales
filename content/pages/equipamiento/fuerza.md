@@ -37,7 +37,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Hack Squat
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/714SH_large.webp
