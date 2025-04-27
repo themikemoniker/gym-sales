@@ -36,7 +36,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: 47" Olympic Curl Bar
         subtitle: ''
         image:
           type: ImageBlock
