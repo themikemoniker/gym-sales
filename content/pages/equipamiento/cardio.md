@@ -12,12 +12,12 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: AirRaid Rower
         subtitle: ''
         image:
           type: ImageBlock
           url: /images/8AR_Air_Rower_1080_large.webp
-          altText: ''
+          altText: AirRaid Rower
           elementId: ''
           styles:
             self:
@@ -36,12 +36,12 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: TKO AirRaid Bike
+        title: AirRaid Bike
         subtitle: ''
         image:
           type: ImageBlock
           url: /images/8AB2_1da41f4b-b3d1-4ffc-a5e6-ec02a47cdae5_large.webp
-          altText: ''
+          altText: AirRaid Bike
           elementId: ''
           styles:
             self:
@@ -49,12 +49,12 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: TKO AirRaid Ski Trainer
+        title: AirRaid Ski Trainer
         subtitle: ''
         image:
           type: ImageBlock
           url: /images/8ASKI_WEBEDIT_large.webp
-          altText: ''
+          altText: AirRaid Ski Trainer
           elementId: ''
           styles:
             self:
@@ -62,12 +62,12 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: TKO AirRaid Runner
+        title: AirRaid Runner
         subtitle: ''
         image:
           type: ImageBlock
           url: /images/8CTMAirRaidCurvedTreadmill_large.webp
-          altText: ''
+          altText: AirRaid Ski Trainer
           elementId: ''
           styles:
             self:
