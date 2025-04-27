@@ -12,12 +12,12 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Smith Machine
         subtitle: ''
         image:
           type: ImageBlock
           url: /images/872SM-BKMatteBlackSmithMachine_large.webp
-          altText: Faux Fur Throw
+          altText: Smith Machine
           elementId: ''
           styles:
             self:
@@ -36,12 +36,12 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        title: Hack Squat
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/714SH_large.webp
-          altText: Cotton Knit Throws
+          altText: Hack Squat
           elementId: ''
           styles:
             self:
@@ -49,12 +49,12 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
+        title: Leg Extension
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/7011-G2LegExtension_large.webp
-          altText: Chunky Cotton Knit Throw
+          altText: Leg Extension
           elementId: ''
           styles:
             self:
@@ -62,12 +62,12 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Seated Leg Curl
         subtitle: ''
         image:
           type: ImageBlock
           url: /images/7012-G2SeatedLegCurl_large.webp
-          altText: Faux Fur Throw
+          altText: Seated Leg Curl
           elementId: ''
           styles:
             self:
@@ -86,12 +86,60 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        title: Pec Fly/Rear Delt
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
+          url: /images/7003-G2PecFlyRearDelt_large.webp
+          altText: Pec Fly/Rear Delt
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Lat Pulldown / Vertical Row
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/7061-G2LatPulldownVerticalRow_large.webp
+          altText: Lat Pulldown / Vertical Row
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Weight Assisted Chin/Dip
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/7026-G2WeightAssistedChinDipCombo_large.webp
+          altText: Weight Assisted Chin/Dip
           elementId: ''
           styles:
             self:
