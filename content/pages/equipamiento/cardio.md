@@ -54,7 +54,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/8ASKI_WEBEDIT_large.webp
-          altText: ''
+          altText: AirRaid Ski Trainer
           elementId: ''
           styles:
             self:
