@@ -62,7 +62,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: TKO 2" OLYMPIC QUICK CLIP WEIGHT COLLAR
         subtitle: ''
         image:
           type: ImageBlock
