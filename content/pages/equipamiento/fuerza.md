@@ -134,7 +134,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Weight Assisted Chin/Dip
         subtitle: ''
         image:
           type: ImageBlock
