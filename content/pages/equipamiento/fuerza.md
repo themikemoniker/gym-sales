@@ -17,7 +17,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/872SM-BKMatteBlackSmithMachine_large.webp
-          altText: ''
+          altText: Smith Machine
           elementId: ''
           styles:
             self:
