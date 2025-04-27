@@ -36,7 +36,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Hack Squat
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
