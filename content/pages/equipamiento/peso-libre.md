@@ -5,18 +5,18 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Peso libre items on sale
+      text: Peso libre
       color: text-dark
       styles:
         self:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throwz-april14
-        subtitle: $ 88 – $ 176
+        title: 10-Sided Rubber Dumbbell
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/829TRTenSidedRubberDumbbellpair_large.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
@@ -36,11 +36,11 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        title: 47" Olympic Curl Bar
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/813OB-47C_2_large.webp
           altText: Cotton Knit Throws
           elementId: ''
           styles:
@@ -49,11 +49,11 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
+        title: TKO COMMERCIAL BAR PAD
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/b1_large.webp
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
@@ -61,6 +61,78 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: TKO 2" OLYMPIC QUICK CLIP WEIGHT COLLAR
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/143SCO-01_grande.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: 56" COMBO HEX BAR
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/812HB_500_grande.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: TKO Olympic Rubber Grip Plate
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/803OROlympicRubberPlatesStacked_large.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
