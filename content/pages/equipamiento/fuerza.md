@@ -54,7 +54,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/7011-G2LegExtension_large.webp
-          altText: Chunky Cotton Knit Throw
+          altText: ''
           elementId: ''
           styles:
             self:
