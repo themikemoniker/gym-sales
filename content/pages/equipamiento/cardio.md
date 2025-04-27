@@ -12,7 +12,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: AirRaid Rower
         subtitle: ''
         image:
           type: ImageBlock
