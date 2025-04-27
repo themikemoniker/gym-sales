@@ -110,7 +110,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Lat Pulldown / Vertical Row
         subtitle: ''
         image:
           type: ImageBlock
