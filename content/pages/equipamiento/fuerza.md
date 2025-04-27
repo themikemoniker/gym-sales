@@ -87,7 +87,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/7003-G2PecFlyRearDelt_large.webp
