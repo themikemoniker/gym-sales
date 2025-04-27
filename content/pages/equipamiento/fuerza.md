@@ -67,7 +67,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/7012-G2SeatedLegCurl_large.webp
-          altText: ''
+          altText: Seated Leg Curl
           elementId: ''
           styles:
             self:
