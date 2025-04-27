@@ -37,7 +37,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/813OB-47C_2_large.webp
