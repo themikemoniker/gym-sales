@@ -41,7 +41,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/714SH_large.webp
-          altText: ''
+          altText: Hack Squat
           elementId: ''
           styles:
             self:
