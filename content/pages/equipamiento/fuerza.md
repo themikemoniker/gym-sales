@@ -91,7 +91,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/7003-G2PecFlyRearDelt_large.webp
-          altText: ''
+          altText: Pec Fly/Rear Delt
           elementId: ''
           styles:
             self:
