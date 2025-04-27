@@ -12,7 +12,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throwz-april14
+        title: 10-Sided Rubber Dumbbell
         subtitle: ''
         image:
           type: ImageBlock
