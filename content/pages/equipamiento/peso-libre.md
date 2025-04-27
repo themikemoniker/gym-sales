@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Faux Fur Throwz-april14
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/829TRTenSidedRubberDumbbellpair_large.webp
