@@ -91,7 +91,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/7003-G2PecFlyRearDelt_large.webp
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
