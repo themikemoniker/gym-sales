@@ -67,7 +67,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/7012-G2SeatedLegCurl_large.webp
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
