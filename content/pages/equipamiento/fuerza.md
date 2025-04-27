@@ -12,7 +12,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Smith Machine
         subtitle: ''
         image:
           type: ImageBlock
