@@ -67,7 +67,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/8CTMAirRaidCurvedTreadmill_large.webp
-          altText: ''
+          altText: AirRaid Ski Trainer
           elementId: ''
           styles:
             self:
