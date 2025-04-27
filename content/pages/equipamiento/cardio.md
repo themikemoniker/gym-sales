@@ -36,7 +36,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: TKO AirRaid Bike
+        title: AirRaid Bike
         subtitle: ''
         image:
           type: ImageBlock
