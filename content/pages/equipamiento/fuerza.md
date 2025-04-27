@@ -86,7 +86,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Pec Fly/Rear Delt
         subtitle: ''
         image:
           type: ImageBlock
