@@ -115,7 +115,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/7061-G2LatPulldownVerticalRow_large.webp
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
