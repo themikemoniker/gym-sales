@@ -49,7 +49,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: TKO AirRaid Ski Trainer
+        title: AirRaid Ski Trainer
         subtitle: ''
         image:
           type: ImageBlock
