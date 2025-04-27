@@ -111,7 +111,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: TKO Olympic Rubber Grip Plate
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/803OROlympicRubberPlatesStacked_large.webp
