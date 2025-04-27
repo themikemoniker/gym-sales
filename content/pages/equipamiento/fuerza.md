@@ -111,7 +111,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/7061-G2LatPulldownVerticalRow_large.webp
