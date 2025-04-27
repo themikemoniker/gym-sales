@@ -139,7 +139,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/7026-G2WeightAssistedChinDipCombo_large.webp
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
